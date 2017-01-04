@@ -1,7 +1,5 @@
 # 使用Jansson解析json格式
 
-[toc]
-
 ## 介绍
 
 Jansson是一个对json格式进行编码，解码，操作的c语言库，有以下特点
